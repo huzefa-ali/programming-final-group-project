@@ -120,12 +120,7 @@ Each group member contributed actively to **coding, debugging, presentation deli
   * Z-Score Mean Reversion
   * SMA + VADER Sentiment
 * Delivered the **final conclusion** during the presentation
-* Led and coordinated multiple **team practice sessions**
-* Helped teammates refine:
-
-  * Strategy explanations
-  * Market intuition
-  * Risk-adjusted performance interpretation
+* Coordinated multiple **team practice sessions**
 
 ---
 
@@ -139,7 +134,6 @@ Each group member contributed actively to **coding, debugging, presentation deli
 * Added summary sentences to the **Abstract**
 * Fully authored the **Discussion section**
 * Fully authored the **Conclusion section**
-* Helped refine academic tone and formatting consistency
 * Built and finalized this **GitHub README.md**
 
 ---
