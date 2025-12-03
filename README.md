@@ -22,7 +22,7 @@ cd <your-repo-name>
 Ensure you are using **Python 3.8+**, then install the required libraries:
 
 ```bash
-pip install numpy pandas matplotlib yfinance great-tables nltk scikit-learn
+pip install pandas numpy yfinance plotly pandas-ta vaderSentiment jupyter
 ```
 
 If using Jupyter:
