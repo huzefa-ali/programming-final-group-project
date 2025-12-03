@@ -43,7 +43,7 @@ Open the main compiled strategy notebook from the project directory.
 
 ---
 
-### 4️ Run the Full Backtest
+###  Run the Full Backtest
 
 Run all cells from top to bottom to:
 
